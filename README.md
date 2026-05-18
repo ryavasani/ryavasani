@@ -2,7 +2,17 @@ CS & Stats @ UIUC | Inc SWE intern @ Apple
 
 Prev SWE intern @ Slack, ML research @ NCSA (SSAIL), Technical Project Lead @ Disruption Lab, SWE @ Founders
 
-Other Projects:
+Projects:
+
+Gym Genius: Fitness app with performance based ranking algorithms, LLM generated training plans and workout insights, plus video based exercise form correction using computer vision.
+
+Time Series Forecasting: Machine learning research project focused on forecasting financial and temporal trends using GRU, LSTM, and ARIMA models.
+
+Minimax Sudoku: Intelligent Sudoku solver implementing the Minimax algorithm with recursive backtracking and game state optimization techniques to efficiently solve the puzzle
+
+
+
+Private Projects:
 
 Jinship: https://jinship.com/
 
