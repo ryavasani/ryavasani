@@ -4,7 +4,7 @@ Prev SWE intern @ Slack, ML research @ NCSA (SSAIL), Technical Project Lead @ Di
 
 Projects:
 
-Gym Genius: Fitness app with performance based ranking algorithms, LLM generated training plans and workout insights, plus video based exercise form correction using computer vision.
+Gym Genius: Mobile fitness app with performance based ranking algorithms, LLM generated training plans and workout insights, plus video based exercise form correction using computer vision.
 
 Time Series Forecasting: Machine learning research project focused on forecasting financial and temporal trends using GRU, LSTM, and ARIMA models.
 
