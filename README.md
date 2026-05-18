@@ -14,6 +14,8 @@ Minimax Sudoku: Sudoku solver implementing the Minimax algorithm with recursive 
 
 Private Projects:
 
+DigiDash: iOS companion app for an automotive heads up display (HUD) system that projects real time navigation and driving data onto a transparent screen
+
 Jinship: https://jinship.com/
 
 FoundIt!: https://founders-internal-project.vercel.app/
@@ -21,5 +23,3 @@ FoundIt!: https://founders-internal-project.vercel.app/
 IMC Prosperity 4: Global Top 2% Manual Trading, Global Top 3% Overall
 
 Optimized CNN Inference: High performance CNN inference engine using CUDA optimizations including tensor cores, kernel fusion, memory tiling, and mixed precision acceleration.
-
-DigiDash: iOS companion app for an automotive heads up display (HUD) system that projects real time navigation and driving data onto a transparent screen
