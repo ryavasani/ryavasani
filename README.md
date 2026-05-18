@@ -8,7 +8,7 @@ Gym Genius: Fitness app with performance based ranking algorithms, LLM generated
 
 Time Series Forecasting: Machine learning research project focused on forecasting financial and temporal trends using GRU, LSTM, and ARIMA models.
 
-Minimax Sudoku: Intelligent Sudoku solver implementing the Minimax algorithm with recursive backtracking and game state optimization techniques to efficiently solve the puzzle
+Minimax Sudoku: Sudoku solver implementing the Minimax algorithm with recursive backtracking and game state optimization techniques to efficiently solve the puzzle
 
 
 
