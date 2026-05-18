@@ -1,6 +1,6 @@
 CS & Stats @ UIUC | Inc SWE intern @ Apple
 
-Prev SWE intern @ Slack, ML research @ NCSA (SSAIL), Technical Project Lead @ Disruption Lab, SWE @ Founders
+Prev SWE intern @ Slack, ML research @ NCSA (SSAIL), Technical Project Lead @ Disruption Lab, SWE @ Founders, Data Engineering Intern @ Pfizer
 
 Projects:
 
